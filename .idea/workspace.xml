@@ -30,8 +30,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="16bfae43-4a14-4869-a552-210b5e94cbea" name="更改" comment="init">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,13 +70,16 @@
     "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
     "C/C++ 文件.Test01.cpp.executor": "Run",
     "C/C++ 文件.Test02.cpp.executor": "Debug",
+    "C/C++ 文件.main.cpp.executor": "Run",
     "CMake 应用程序.ClionDemo.executor": "Run",
     "CMake 应用程序.Test01.executor": "Run",
+    "CMake 应用程序.Test02.executor": "Run",
     "CMake 调试.ClionDemo.executor": "Debug",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.RadMigrateCodeStyle": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.readMode.enableVisualFormatting": "true",
     "RunOnceActivity.west.config.association.type.startup.service": "true",
     "cf.first.check.clang-format": "false",
@@ -93,11 +96,6 @@
   }
 }]]></component>
   <component name="RunManager" selected="CMake 应用程序.Test02">
-    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
-      <method v="2">
-        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="ClionDemo" type="CMakeListConfigurationType" factoryName="CMakeListConfigurationFactory" temporary="true">
       <method v="2" />
     </configuration>
@@ -140,14 +138,14 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="C/C++ 文件.main.cpp" />
-      <item itemvalue="C/C++ 文件.Test02.cpp" />
-      <item itemvalue="C/C++ 文件.Test01.cpp" />
+      <item itemvalue="CMake 调试.ClionDemo" />
       <item itemvalue="CMake 应用程序.ClionDemo" />
-      <item itemvalue="CMake 应用程序.main" />
       <item itemvalue="CMake 应用程序.Test01" />
       <item itemvalue="CMake 应用程序.Test02" />
-      <item itemvalue="CMake 调试.ClionDemo" />
+      <item itemvalue="CMake 应用程序.main" />
+      <item itemvalue="C/C++ 文件.Test01.cpp" />
+      <item itemvalue="C/C++ 文件.Test02.cpp" />
+      <item itemvalue="C/C++ 文件.main.cpp" />
     </list>
     <recent_temporary>
       <list>
@@ -167,6 +165,7 @@
       <option name="presentableId" value="Default" />
       <updated>1752855643518</updated>
       <workItem from="1752855645069" duration="1743000" />
+      <workItem from="1752858748473" duration="48000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <option name="closed" value="true" />
@@ -216,7 +215,23 @@
       <option name="project" value="LOCAL" />
       <updated>1752857784327</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="init">
+      <option name="closed" value="true" />
+      <created>1752858516234</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1752858516234</updated>
+    </task>
+    <task id="LOCAL-00008" summary="init">
+      <option name="closed" value="true" />
+      <created>1752858647424</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1752858647424</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
