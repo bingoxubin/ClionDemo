@@ -95,9 +95,14 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="CMake 应用程序.Test02">
+  <component name="RunManager" selected="CMake 应用程序.Test01">
     <configuration name="ClionDemo" type="CMakeListConfigurationType" factoryName="CMakeListConfigurationFactory" temporary="true">
       <method v="2" />
+    </configuration>
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
     </configuration>
     <configuration name="ClionDemo" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ClionDemo" TARGET_NAME="ClionDemo" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="ClionDemo" RUN_TARGET_NAME="ClionDemo">
       <method v="2">
@@ -138,14 +143,14 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="CMake 调试.ClionDemo" />
+      <item itemvalue="C/C++ 文件.main.cpp" />
+      <item itemvalue="C/C++ 文件.Test02.cpp" />
+      <item itemvalue="C/C++ 文件.Test01.cpp" />
       <item itemvalue="CMake 应用程序.ClionDemo" />
+      <item itemvalue="CMake 应用程序.main" />
       <item itemvalue="CMake 应用程序.Test01" />
       <item itemvalue="CMake 应用程序.Test02" />
-      <item itemvalue="CMake 应用程序.main" />
-      <item itemvalue="C/C++ 文件.Test01.cpp" />
-      <item itemvalue="C/C++ 文件.Test02.cpp" />
-      <item itemvalue="C/C++ 文件.main.cpp" />
+      <item itemvalue="CMake 调试.ClionDemo" />
     </list>
     <recent_temporary>
       <list>
