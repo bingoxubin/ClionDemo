@@ -1,3 +1,7 @@
-//
-// Created by bingoabin on 25-7-19.
-//
+#include <iostream>
+using namespace std;
+
+int main() {
+    cout << "hello world" << endl;
+    return 0;
+}
